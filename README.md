@@ -1,4 +1,4 @@
-# imRNAquant v1.0.0 by Ozkurede (2026)
+# imRNAquant v1.0.0
 
 imRNAquant quantifies reads containing uncleaved mitochondrial RNA junctions in
 RNA-seq data. It searches for exact matches to 30-nucleotide uncleaved junction
