@@ -96,6 +96,10 @@ respectively. The `mouse_mtDNA_6NCrl_*` files provide a separate C57BL/6NCrl
 reference set. The FASTQ files in `example/fastq/` are a toy dataset for
 checking that the workflow runs and produces the expected counts.
 
+## Citation
+
+If you use imRNAquant in your research, please cite https://www.biorxiv.org/content/10.64898/2026.10.30.763231v1
+
 ## License
 
 The imRNAquant source code is available under the MIT License. See
