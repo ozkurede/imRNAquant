@@ -79,13 +79,13 @@ if __name__ == '__main__':
 
    #i Load site__ data using the map (annotation) file.
    pw.ll ("Loading mtDmap from the file, ", CL ['mtDmap_file'])
-   with open (CL ['mtDmap_file'], "r") as f: 
+   with open (CL ['mtDmap_file'], "r", encoding = "utf-8") as f: 
       site__ = json.load (f)
    pw.l ("Loaded, ", len (site__) - 2, " sites, $site__")
 
    #i Load UJIjson__ data using the UJI file.
    pw.ll ("Loading junctions from the file, ", CL ['mtD_UJI_file'])
-   with open (CL ['mtD_UJI_file'], "r") as f: 
+   with open (CL ['mtD_UJI_file'], "r", encoding = "utf-8") as f: 
       UJIjson__ = json.load (f)
    pw.l ("Loaded, ", len (UJIjson__) - 2, " junctions, $UJIjson__")
 
