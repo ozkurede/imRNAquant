@@ -1,0 +1,316 @@
+{"#": "mouse_mtDNA_map.json (imRNAquant, Ozkurede 2026) u_qb",
+
+"F": {
+   "name": "F",
+   "type": "tR",
+   "start": 1,
+   "end": 68},
+
+"(F-Rnr1)": {
+   "name": "(F-Rnr1)",
+   "type": "gap",
+   "start": 69,
+   "end": 69},
+
+"Rnr1": {
+   "name": "Rnr1",
+   "type": "rR",
+   "start": 70,
+   "end": 1024},
+
+"V": {
+   "name": "V",
+   "type": "tR",
+   "start": 1025,
+   "end": 1093},
+
+"Rnr2": {
+   "name": "Rnr2",
+   "type": "rR",
+   "start": 1094,
+   "end": 2675},
+
+"L1": {
+   "name": "L1",
+   "type": "tR",
+   "start": 2676,
+   "end": 2750},
+
+"Nd1": {
+   "name": "Nd1",
+   "type": "mR",
+   "start": 2751,
+   "end": 3705},
+
+"I": {
+   "name": "I",
+   "type": "tR",
+   "start": 3706,
+   "end": 3774},
+
+"cQ": {
+   "name": "cQ",
+   "type": "ctR",
+   "start": 3772,
+   "end": 3842},
+
+"(cQ-M)": {
+   "name": "(cQ-M)",
+   "type": "gap",
+   "start": 3843,
+   "end": 3844},
+
+"M": {
+   "name": "M",
+   "type": "tR",
+   "start": 3845,
+   "end": 3913},
+
+"Nd2": {
+   "name": "Nd2",
+   "type": "mR",
+   "start": 3914,
+   "end": 4949},
+
+"W": {
+   "name": "W",
+   "type": "tR",
+   "start": 4950,
+   "end": 5016},
+
+"(W-cA)": {
+   "name": "(W-cA)",
+   "type": "gap",
+   "start": 5017,
+   "end": 5017},
+
+"cA": {
+   "name": "cA",
+   "type": "ctR",
+   "start": 5018,
+   "end": 5086},
+
+"(cA-cN)": {
+   "name": "(cA-cN)",
+   "type": "gap",
+   "start": 5087,
+   "end": 5088},
+
+"cN": {
+   "name": "cN",
+   "type": "ctR",
+   "start": 5089,
+   "end": 5159},
+
+"X": {
+   "name": "X",
+   "type": "none",
+   "start": 5160,
+   "end": 5191},
+
+"cC": {
+   "name": "cC",
+   "type": "ctR",
+   "start": 5192,
+   "end": 5257},
+
+"(cC-cY)": {
+   "name": "(cC-cY)",
+   "type": "gap",
+   "start": 5258,
+   "end": 5259},
+
+"cY": {
+   "name": "cY",
+   "type": "ctR",
+   "start": 5260,
+   "end": 5326},
+
+"(cY-Co1)": {
+   "name": "(cY-Co1)",
+   "type": "gap",
+   "start": 5327,
+   "end": 5327},
+
+"Co1": {
+   "name": "Co1",
+   "type": "mR",
+   "start": 5328,
+   "end": 6872},
+
+"cS1": {
+   "name": "cS1",
+   "type": "ctR",
+   "start": 6870,
+   "end": 6938},
+
+"(sS1-D)": {
+   "name": "(sS1-D)",
+   "type": "gap",
+   "start": 6939,
+   "end": 6941},
+
+"D": {
+   "name": "D",
+   "type": "tR",
+   "start": 6942,
+   "end": 7011},
+   
+"(D-Co2)": {
+   "name": "(D-Co2)",
+   "type": "gap",
+   "start": 7012,
+   "end": 7012},
+
+"Co2": {
+   "name": "Co2",
+   "type": "mR",
+   "start": 7013,
+   "end": 7696},
+   
+"(Co2-K)": {
+   "name": "(Co2-K)",
+   "type": "gap",
+   "start": 7697,
+   "end": 7699},
+   
+"K": {
+   "name": "K",
+   "type": "tR",
+   "start": 7700,
+   "end": 7764},
+   
+"(K-Atp8)": {
+   "name": "(K-Atp8)",
+   "type": "gap",
+   "start": 7765,
+   "end": 7765},
+
+"Atp8": {
+   "name": "Atp8",
+   "type": "mR",
+   "start": 7766,
+   "end": 7969},
+   
+"Atp6": {
+   "name": "Atp6",
+   "type": "mR",
+   "start": 7927,
+   "end": 8607},
+   
+"Co3": {
+   "name": "Co3",
+   "type": "mR",
+   "start": 8607,
+   "end": 9390},
+   
+"G": {
+   "name": "G",
+   "type": "tR",
+   "start": 9391,
+   "end": 9458},
+
+"Nd3": {
+   "name": "Nd3",
+   "type": "mR",
+   "start": 9459,
+   "end": 9806},
+   
+"(Nd3-R)": {
+   "name": "(Nd3-R)",
+   "type": "gap",
+   "start": 9807,
+   "end": 9808},
+   
+"R": {
+   "name": "R",
+   "type": "tR",
+   "start": 9809,
+   "end": 9875},
+   
+"(R-Nd4l)": {
+   "name": "(R-Nd4l)",
+   "type": "gap",
+   "start": 9876,
+   "end": 9876},
+
+"Nd4l": {
+   "name": "Nd4l",
+   "type": "mR",
+   "start": 9877,
+   "end": 10173},
+   
+"Nd4": {
+   "name": "Nd4",
+   "type": "mR",
+   "start": 10167,
+   "end": 11544},
+   
+"H": {
+   "name": "H",
+   "type": "tR",
+   "start": 11545,
+   "end": 11612},
+   
+"S2": {
+   "name": "S2",
+   "type": "tR",
+   "start": 11613,
+   "end": 11671},
+   
+"L2": {
+   "name": "L2",
+   "type": "tR",
+   "start": 11671,
+   "end": 11741},
+
+"Nd5": {
+   "name": "Nd5",
+   "type": "mR",
+   "start": 11742,
+   "end": 13565},
+   
+"cNd6": {
+   "name": "cNd6",
+   "type": "cmR",
+   "start": 13552,
+   "end": 14070},
+   
+"cE": {
+   "name": "cE",
+   "type": "ctR",
+   "start": 14071,
+   "end": 14139},
+   
+"(cE-Cyb)": {
+   "name": "(cE-Cyb)",
+   "type": "gap",
+   "start": 14140,
+   "end": 14144},
+
+"Cyb": {
+   "name": "Cyb",
+   "type": "mR",
+   "start": 14145,
+   "end": 15288},
+   
+"T": {
+   "name": "T",
+   "type": "tR",
+   "start": 15289,
+   "end": 15355},
+
+"cP": {
+   "name": "cP",
+   "type": "ctR",
+   "start": 15356,
+   "end": 15422},
+
+"O": {
+   "name": "O",
+   "type": "o",
+   "start": 15423,
+   "end": 16299},
+
+"#i": "mouse_mtDNA_map.json (imRNAquant, Ozkurede 2026) u_qb"
+}

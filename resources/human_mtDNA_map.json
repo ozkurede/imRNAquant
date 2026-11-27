@@ -1,0 +1,303 @@
+{"#": "human_mtDNA_map.json (imRNAquant, Ozkurede 2026) u_qb",
+
+"O": {
+   "name": "O", 
+   "type": "o",
+   "start": 1,
+   "end": 576},
+
+"F": {
+	"name": "F",
+	"type": "tR",
+	"start": 577,
+	"end": 647},
+
+"RNR1": {
+	"name": "RNR1",
+	"type": "rR",
+	"start": 648,
+	"end": 1601},
+
+"V": {
+	"name": "V",
+	"type": "tR",
+	"start": 1602,
+	"end": 1670},
+
+"RNR2": {
+	"name": "RNR2",
+	"type": "rR",
+	"start": 1671,
+	"end": 3229},
+
+"L1": {
+	"name": "L1",
+	"type": "tR",
+	"start": 3230,
+	"end": 3304},
+
+"(L1-ND1)": {
+   "name": "(L1-ND1)",
+	"type": "gap",
+	"start": 3305,
+	"end": 3306},
+
+"ND1": {
+	"name": "ND1",
+	"type":  "mR",
+	"start": 3307,
+	"end": 4262},
+	
+"I": {
+	"name": "I",
+	"type": "tR",
+	"start": 4263,
+	"end": 4331},
+
+"cQ": {
+	"name": "cQ",
+	"type": "ctR",
+	"start": 4329,
+	"end": 4400},
+
+"(cQ-M)": {
+   "name": "(cQ-M)",
+	"type": "gap",
+	"start": 4401,
+	"end": 4401},
+
+"M": {
+	"name": "M",
+	"type": "tR",
+	"start": 4402,
+	"end": 4469},
+	
+"ND2": {
+	"name": "ND2",
+	"type": "mR",
+	"start": 4470,
+	"end": 5511}, 
+
+"W": {
+	"name": "W",
+	"type": "tR",
+	"start": 5512,
+	"end": 5579},
+
+"(W-cA)": 
+	{"name": "(W-cA)",
+	"type": "gap",
+	"start": 5580,
+	"end": 5586},
+
+"cA": {
+	"name": "cA",
+	"type": "ctR",
+	"start": 5587,
+	"end": 5655},
+
+"(cA-cN)": 
+	{"name": "(cA-cN)",
+	"type": "gap",
+	"start": 5656,
+	"end": 5656},
+
+"cN": {
+	"name": "cN",
+	"type": "ctR",
+	"start": 5657,
+	"end": 5729},
+
+"X": {
+	"name": "X",
+	"type": "x",
+	"start": 5730,
+	"end": 5760},
+
+"cC": {
+	"name": "cC",
+	"type": "ctR",
+	"start": 5761,
+	"end": 5826},
+
+"cY": {
+	"name": "cY",
+	"type": "ctR",
+	"start": 5826,
+	"end": 5891},
+	
+"(cY-CO1)": 
+	{"name":"(cY-CO1)",
+	"type":"gap",
+	"start": 5892,
+	"end": 5903},
+
+"CO1": {
+	"name": "CO1",
+	"type": "mR",
+	"start": 5904,
+	"end": 7445},
+
+"cS1": {
+	"name": "cS1",
+	"type": "ctR",
+	"start": 7446,
+	"end": 7514},
+
+"(cS1-D)": 
+	{"name": "(cS1-D)",
+	"type": "gap",
+	"start": 7515,
+	"end": 7517},
+
+"D": {
+	"name": "D",
+	"type": "tR",
+	"start": 7518,
+	"end": 7585},
+
+"CO2": {
+	"name": "CO2",
+	"type": "mR",
+	"start": 7586,
+	"end": 8269},
+
+"(CO2-K)": 
+	{"name":"(CO2-K)",
+	"type": "gap",
+	"start": 8270,
+	"end": 8294},
+
+"K": {
+	"name": "K",
+	"type": "tR",
+	"start": 8295,
+	"end": 8364},
+
+"(K-ATP8)": 
+	{"name":"(K-ATP8)",
+	"type":"gap",
+	"start": 8365,
+	"end": 8365},
+
+"ATP8": {
+	"name": "ATP8",
+	"type": "mR",
+	"start": 8366,
+	"end": 8572},
+
+"ATP6": {
+	"name": "ATP6",
+	"type": "mR",
+	"start": 8527,
+	"end": 9207},
+
+"CO3": {
+	"name": "CO3",
+	"type": "mR",
+	"start": 9207,
+	"end": 9990},
+
+"G": {
+	"name": "G",
+	"type": "tR",
+	"start": 9991,
+	"end": 10058},
+	
+"ND3": {
+	"name": "ND3",
+	"type": "mR",
+	"start": 10059,
+	"end": 10404},
+
+"R": {
+	"name": "R",
+	"type": "tR",
+	"start": 10405,
+	"end": 10469},
+
+"ND4L": {
+	"name": "ND4L",
+	"type": "mR",
+	"start": 10470,
+	"end": 10766},
+
+"ND4": {
+	"name": "ND4",
+	"type": "mR",
+	"start": 10760,
+	"end": 12137},
+
+"H": {
+	"name": "H",
+	"type": "tR",
+	"start": 12138,
+	"end": 12206},
+
+"S2": {
+	"name": "S2",
+	"type": "tR",
+	"start": 12207,
+	"end": 12265},
+
+"L2": {
+	"name": "L2",
+	"type": "tR",
+	"start": 12266,
+	"end": 12336},
+	
+"ND5": {
+	"name": "ND5",
+	"type": "mR",
+	"start": 12337,
+	"end": 14148},
+
+"cND6": {
+	"name": "cND6",
+	"type": "cmR",
+	"start": 14149,
+	"end": 14673},
+
+"cE": {
+	"name": "cE",
+	"type": "ctR",
+	"start": 14674,
+	"end": 14742},
+
+"(cE-CYB)": 
+	{"name":"(cE-CYB)",
+	"type": "gap",
+	"start": 14743,
+	"end": 14746},
+	
+"CYB": {
+	"name": "CYB",
+	"type": "mR",
+	"start": 14747,
+	"end": 15887},
+
+"T": {
+	"name": "T",
+	"type": "tR",
+	"start": 15888,
+	"end": 15953},
+
+"(T-cP)": 
+	{"name": "(T-cP)",
+	"type": "gap",
+	"start": 15954,
+	"end": 15955},    
+
+"cP": {
+	"name": "cP",
+	"type": "ctR",
+	"start": 15956,
+	"end": 16023},
+
+"O2": {
+	"name": "O2",
+	"type": "o",
+	"start": 16024,
+	"end": 16569},
+"#i": "human_mtDNA_map.json (imRNAquant, Ozkurede 2026) u_qb"
+}

@@ -1,0 +1,158 @@
+{"#": "human_mtDNA_UJI.json (imRNAquant, Ozkurede 2026) u_qb",
+
+"L1-ND1": {
+  "ord": 6, 
+  "name": "L1-ND1",
+  "type": "tR-mR", 
+  "desc": "ttaac'a]ac[Ata-ccc", 
+  "pos": 3307, 
+  "UJIpos": 3303,
+  "refPre": "RNR2", 
+  "refPost": "ND1", 
+  "refDef": "ND1"}, 
+
+"ND1-I": { 
+  "ord": 7, 
+  "name": "ND1-I",
+  "type": "mR-tR", 
+  "desc": "a-acc-ta][Agaaat", 
+  "pos": 4263, 
+  "UJIpos": 4261,  
+  "refPre": "ND1", 
+  "refPost": "ND2", 
+  "refDef": "ND1"},
+  
+"M-ND2": { 
+  "ord": 10, 
+  "name": "M-ND2",
+  "type": "tR-mR", 
+  "desc": "gtact'a][Att-aat", 
+  "pos": 4470, 
+  "UJIpos": 4468,
+  "refPre": "ND1", 
+  "refPost": "ND2", 
+  "refDef": "ND2"}, 
+
+"ND2-W": { 
+  "ord": 11, 
+  "name": "ND2-W",
+  "type": "mR-tR", 
+  "desc": "tc-tta-t][Agaaat", 
+  "pos": 5512, 
+  "UJIpos": 5511,
+  "refPre": "ND2", 
+  "refPost": "CO1", 
+  "refDef": "ND2"}, 
+
+"D-CO2": { 
+  "ord": 20, 
+  "name": "D-CO2",
+  "type": "tR-mR", 
+  "desc": "atctt'a][Atg-gca", 
+  "pos": 7586, 
+  "UJIpos": 7584,
+  "refPre": "CO1", 
+  "refPost": "CO2", 
+  "refDef": "CO2"}, 
+
+"CO2-K": { 
+  "ord": 21, 
+  "name": "CO2-K",
+  "type": "mR-tR", 
+  "desc": "cta-tag]caccccctctaccccctctagagcc[Cactgt",
+  "pos": 8295, 
+  "UJIpos": 8269,
+  "refPre": "CO2", 
+  "refPost": "ATP8", 
+  "refDef": "CO2"},
+
+"K-ATP8": { 
+  "ord": 22, 
+  "name": "K-ATP8",
+  "type": "tR-mR", 
+  "desc": "cagtga]a[Atg-ccc", 
+  "pos": 8366, 
+  "UJIpos": 8363,
+  "refPre": "CO2", 
+  "refPost": "ATP8", 
+  "refDef": "ATP8"}, 
+
+"CO3-G": { 
+  "ord": 25, 
+  "name": "CO3-G",
+  "type": "mR-tR", 
+  "desc": "gg-tct-t][Actctt", 
+  "pos": 9991, 
+  "UJIpos": 9990,
+  "refPre": "CO3", 
+  "refPost": "ND3", 
+  "refDef": "CO3"}, 
+
+"G-ND3": { 
+  "ord": 26, 
+  "name": "G-ND3",
+  "type": "tR-mR", 
+  "desc": "agagt'a][Ata-aac", 
+  "pos": 10059, 
+  "UJIpos": 10057,
+  "refPre": "CO3", 
+  "refPost": "ND3", 
+  "refDef": "ND3"},
+  
+"ND3-R": { 
+  "ord": 27, 
+  "name": "ND3-R",
+  "type": "mR-tR", 
+  "desc": "cc-gaa-t][Tggtat", 
+  "pos": 10405, 
+  "UJIpos": 10404,
+  "refPre": "ND3", 
+  "refPost": "ND4L", 
+  "refDef": "ND3"}, 
+
+"R-ND4L": { 
+  "ord": 28, 
+  "name": "R-ND4L",
+  "type": "tR-mR", 
+  "desc": "tacca'a][Atg-ccc", 
+  "pos": 10470, 
+  "UJIpos": 10467,
+  "refPre": "ND3", 
+  "refPost": "ND4L", 
+  "refDef": "ND4L"}, 
+
+"ND4-H": {
+  "ord": 30, 
+  "name": "ND4-H",
+  "type": "mR-tR", 
+  "desc": "cc-tct-t][Gtaaat", 
+  "pos": 12138, 
+  "UJIpos": 12137,
+  "refPre": "ND4", 
+  "refPost": "ND5", 
+  "refDef": "ND4"},
+
+"L2-ND5": { 
+  "ord": 33, 
+  "name": "L2-ND5",
+  "type": "tR-mR", 
+  "desc": "aaagt'a][Ata-acc", 
+  "pos": 12337, 
+  "UJIpos": 12335,
+  "refPre": "ND4", 
+  "refPost": "ND5", 
+  "refDef": "ND5"},
+  
+"CYB-T": { 
+  "ord": 37, 
+  "name": "CYB-T",
+  "type": "mR-tR", 
+  "desc": "gg-gcc-t][Gtcctt", 
+  "pos": 15888, 
+  "UJIpos": 15887,
+  "refPre": "CYB", 
+  "refPost": "O", 
+  "refDef": "CYB"}, 
+
+"#i": "human_mtDNA_UJI.json (imRNAquant, Ozkurede 2026) u_qb"
+}

@@ -1,0 +1,158 @@
+{"#": "mouse_mtDNA_UJI.json (imRNAquant, Ozkurede 2026) u_qb",
+  
+"L1–Nd1": {
+  "ord": 6,
+  "name": "L1–Nd1",
+  "type": "tR-mR",
+  "desc": "ctaat'a][Gtg-ttc",
+  "pos": 2751,
+  "UJIpos": 2749,
+  "refPre": "Rnr2",
+  "refPost": "Nd1",
+  "refDef": "Nd1"},
+
+"Nd1–I": {
+  "ord": 7,
+  "name": "Nd1–I",
+  "type": "mR-tR",
+  "desc": "ac-ata-t][Agaaat",
+  "pos": 3706,
+  "UJIpos": 3705,
+  "refPre": "Nd1",
+  "refPost": "Nd2",
+  "refDef": "Nd1"},
+
+"M–Nd2": { 
+   "ord": 10,
+   "name": "M–Nd2",
+   "type": "tR-mR",
+   "desc": "gtact'a][Ata-aat",
+   "pos": 3914,
+   "UJIpos": 3912,
+   "refPre": "Nd1",
+   "refPost": "Nd2",
+   "refDef": "Nd2"},
+   
+"Nd2–W": {
+  "ord": 11,
+  "name": "Nd2–W",
+  "type": "mR-tR",
+  "desc": "tt-acc-t][Agaagt",
+  "pos": 4950,
+  "UJIpos": 4949,
+  "refPre": "Nd2",
+  "refPost": "Co1",
+  "refDef": "Nd2"},
+  
+"D–Co2": {
+  "name": "D–Co2",
+  "ord": 20,
+  "type": "tR-mR",
+  "desc": "tctt'a]t[Atg-gcc",
+  "pos": 7013,
+  "UJIpos": 7010,
+  "refPre": "Co1",
+  "refPost": "Co2",
+  "refDef": "Co1"},
+
+"Co2–K": {     
+  "name": "Co2–K",
+  "ord": 21,
+  "type": "mR-tR",
+  "desc": "att-taa]ttt[Cactat",
+  "pos": 7700,
+  "UJIpos": 7694,
+  "refPre": "Co2",
+  "refPost": "Atp8",
+  "refDef": "Co2"},
+
+"K–Atp8": {
+  "name": "K–Atp8",
+  "ord": 22,
+  "type": "tR-mR",
+  "desc": "agtg'a]t[Atg-cca",
+  "pos": 7766,
+  "UJIpos": 7763,
+  "refPre": "Co2",
+  "refPost": "Atp8",
+  "refDef": "Atp8"},
+
+"Co3–G": {
+  "name": "Co3–G",
+  "ord": 25,
+  "type": "mR-tR",
+  "desc": "ga-tct-t][Actccc",
+  "pos": 9391,
+  "UJIpos": 9390,
+  "refPre": "Co3",
+  "refPost": "Nd3",
+  "refDef": "Co3"},
+
+"G–Nd3": {
+  "name": "G–Nd3",
+  "ord": 26,
+  "type": "tR-mR",
+  "desc": "agagt'a][Att-aac",
+  "pos": 9459,
+  "UJIpos": 9457,
+  "refPre": "Co3",
+  "refPost": "Nd3",
+  "refDef": "Nd3"},
+
+"Nd3–R": {
+  "name": "Nd3–R",
+  "ord": 27,
+  "type": "mR-tR",
+  "desc": "gag-taa]a[Tggtaa",
+  "pos": 9808,
+  "UJIpos": 9804,
+  "refPre": "Nd3",
+  "refPost": "Nd4l",
+  "refDef": "Nd3"},
+  
+"R–Nd4l": {
+  "name": "R–Nd4l",
+  "ord": 28,
+  "type": "tR-mR",
+  "desc": "acca'a]t[Atg-cca",
+  "pos": 9877,
+  "UJIpos": 9873,
+  "refPre": "Nd3",
+  "refPost": "Nd4l",
+  "refDef": "Nd4l"},
+
+"Nd4–H": {
+  "name": "Nd4–H",
+  "ord": 30,
+  "type": "mR-tR",
+  "desc": "ca-ata-t][Gtgaat",
+  "pos": 11545,
+  "UJIpos": 11544,
+  "refPre": "Nd4",
+  "refPost": "Nd5",
+  "refDef": "Nd4"},
+
+"L2–Nd5": {
+  "name": "L2–Nd5",
+  "ord": 33,
+  "type": "tR-mR",
+  "desc": "aaagt'a][Atc-aat",
+  "pos": 11742,
+  "UJIpos": 11740,
+  "refPre": "Nd4",
+  "refPost": "Nd5",
+  "refDef": "Nd5"},
+
+"Cyb–T": {
+  "name": "Cyb–T",
+  "ord": 37,
+  "type": "mR-tR",
+  "desc": "at-cca-t][Gtcttg",
+  "pos": 15289,
+  "UJIpos": 15288,
+  "refPre": "Cyb",
+  "refPost": "O",
+  "refDef": "Cyb"},
+
+"#i": "mouse_mtDNA_UJI.json (imRNAquant, Ozkurede 2026) u_qb"
+}

@@ -1,0 +1,2 @@
+# imRNAquant.py and f_imRNAquant.py use only the Python standard library and local project modules. 
+# No third-party packages are needed.
