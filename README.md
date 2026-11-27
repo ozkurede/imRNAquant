@@ -1,9 +1,10 @@
 # imRNAquant v1.0.0
 
-imRNAquant quantifies reads containing uncleaved mitochondrial RNA junctions in
-RNA-seq data. It searches for exact matches to 30-nucleotide uncleaved junction
-identifiers (UJIs) and reports both the raw counts and counts normalized to
-nearby mitochondrial transcript segments.
+imRNAquant quantifies mitochondrial immature mRNA (imRNA) levels using conventional 
+short-read RNA-seq data. It searches for exact matches to 30-nucleotide uncleaved 
+junction identifiers (UJIs) and to cognate reference segments. It reports both 
+the raw counts and estimated levels of imRNAs retaining 5' tRNA extensions and 
+imRNAs retaining 3' tRNA extensions.
 
 ## Quick start
 
